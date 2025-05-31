@@ -4,7 +4,7 @@ function Food() {
   return (
     <div>
       <h1>Food List</h1>
-      <h1>Food..</h1>
+      <h1>Food....</h1>
       <ul>{foodList}</ul>
     </div>
   );
