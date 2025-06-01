@@ -7,9 +7,18 @@ import Food from './Food';
 // import Description from "./Description/Description";
 // import Number from "./Number/Number"; 
 // import PropTypes from 'prop-types';
+
+
+  const food = ["Orange", "Apple", "Banana", "Mango"];
+ const vegatabiles=[{id:4,name:"Potatoas"},{id:5,name:"corn"}]
+
 function App() {
   return(
-    <><Food /></>
+    <>
+    {/* <Food /> */}
+    {/* <List data={}/> */}
+    
+    </>
   );
   /////////////////////////
   // return (

@@ -1,0 +1,14 @@
+.card{
+    border:1px solid #ccc;
+    border-radius: 8px;
+        background-color: #b5d71a;
+
+}
+.img{
+    width:250px;
+}
+.card2{
+    border:1px solid #000;
+    border-radius: 8px;
+    background-color: #f0f0f0;
+}
